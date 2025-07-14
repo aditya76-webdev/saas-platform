@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SaaS Foundations
 
 Build the foundations for a Software as a Service business by leveraging Django, Tailwind, htmx, Neon Postgres, Redis, and more.
@@ -177,3 +178,7 @@ python manage.py runserver
 Ready to roll! 🚀
 
 Much more coming soon!
+=======
+# saas-platform
+Modern SaaS application built with Django framework featuring subscription billing, user management, and scalable architecture
+>>>>>>> a4d22b63d121b7f82314bf8c43816e4536564cd8
